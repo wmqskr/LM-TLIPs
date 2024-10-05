@@ -4,17 +4,17 @@ LMTLIPs uses the most advanced large model technology ESM-2 to extract S/ sequen
 
 Requirement
 ===
-*Python 3.9
-*Pytorch 2.1.0+cu121
-*Transformers 4.42.3
-*Numpy 1.26.4
+* Python 3.9
+* Pytorch 2.1.0+cu121
+* Transformers 4.42.3
+* Numpy 1.26.4
 
 How to run
 ===
-*ST_code_ESM: fine tune ESM-2
-*ST_code_ml:train machine learning
-*ST_intergration: intergrate multiple predict probability
-*Y_code_ESM: fine tune ESM-2
-*Y_code_ml:train machine learning
-*Y_intergration: intergrate multiple predict probability
+* ST_code_ESM: fine tune ESM-2
+* ST_code_ml:train machine learning
+* ST_intergration: intergrate multiple predict probability
+* Y_code_ESM: fine tune ESM-2
+* Y_code_ml:train machine learning
+* Y_intergration: intergrate multiple predict probability
 
